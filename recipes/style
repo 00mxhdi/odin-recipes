@@ -1,5 +1,7 @@
-/* styles.lasagna */
 
 .alert{
   color: blue;
+}
+body{
+    background-color: burlywood;
 }
